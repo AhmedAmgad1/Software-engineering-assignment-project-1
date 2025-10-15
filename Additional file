@@ -1,0 +1,2 @@
+z = function1(function2, function3)
+print(z)
